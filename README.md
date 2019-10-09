@@ -1,4 +1,5 @@
-This is my blog, a wondeful requisitory full of funny anecdotes.
+This is my blog, a wondeful repository full of funny anecdotes.
+
 
 XOXO,
 
